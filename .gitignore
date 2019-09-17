@@ -35,5 +35,5 @@
 .codelite/
 Makefile
 *.mk
-#*/*.txt
+*/*.txt
 
