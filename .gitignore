@@ -36,4 +36,5 @@
 Makefile
 *.mk
 */*.txt
+compile_commands.json
 
