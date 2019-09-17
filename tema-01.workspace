@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="tema-01" Database="" Version="10.0.0">
+  <Project Name="bienvenida-v1" Path="bienvenida-v1/bienvenida-v1.project" Active="No"/>
+  <Project Name="bienvenida-v2" Path="bienvenida-v2/bienvenida-v2.project" Active="No"/>
+  <Project Name="eco-numerico" Path="eco-numerico/eco-numerico.project" Active="No"/>
+  <Project Name="circulo" Path="circulo/circulo.project" Active="No"/>
+  <Project Name="edad" Path="edad/edad.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="bienvenida-v1" ConfigName="Debug"/>
+      <Project Name="bienvenida-v2" ConfigName="Debug"/>
+      <Project Name="eco-numerico" ConfigName="Debug"/>
+      <Project Name="circulo" ConfigName="Debug"/>
+      <Project Name="edad" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="bienvenida-v1" ConfigName="Release"/>
+      <Project Name="bienvenida-v2" ConfigName="Release"/>
+      <Project Name="eco-numerico" ConfigName="Release"/>
+      <Project Name="circulo" ConfigName="Release"/>
+      <Project Name="edad" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
